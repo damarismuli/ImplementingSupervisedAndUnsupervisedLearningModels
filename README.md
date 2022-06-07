@@ -1,4 +1,4 @@
-# Customers Clustering Based On Previous Customers Characteristic 
+# Customers Clustering Based On Previous Customers Characteristics
 
 ## Introduction
 
