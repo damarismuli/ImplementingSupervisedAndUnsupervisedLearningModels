@@ -9,11 +9,11 @@ The purpose of the project is to understand customer’s behavior from data that
 
 Kira Plastinina is a Russian brand that is sold through a defunct chain of retail stores in Russia, Ukraine, Kazakhstan, Belarus, China, Philippines, and Armenia.The results will help their brand’s Sales and Marketing team  in formulating the marketing and sales strategies of the brand.
 
-The final project was published in RPubs:
+The final project was published in RPubs:https://rpubs.com/Annastancia/911532
 
 A supervised learning model was also created to help identify which individuals are most likely to click on the ads in the blog  on Performing_EDA_to_help_click_on_ads.To be specific, a linear regression model and  Decision trees were created and compared against.
 
-Link to the updated project Performing_EDA_to_help_click_on_ads in which : 
+Link to the updated project Performing_EDA_to_help_click_on_ads in which :https://rpubs.com/Annastancia/908285
 
 
 ## Experimental Design
