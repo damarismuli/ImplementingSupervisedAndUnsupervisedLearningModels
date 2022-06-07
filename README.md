@@ -37,7 +37,7 @@ iii. Multivariate
 
 Implementing the Solution
 
-i. KMeans Clustering
+i. K - Means Clustering
  
 ii.Hierarchical Clustering
 
