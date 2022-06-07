@@ -7,7 +7,7 @@ The purpose of the project is to understand customer’s behavior from data that
 ## Description
 
 
-Kira Plastinina is a Russian brand that is sold through a defunct chain of retail stores in Russia, Ukraine, Kazakhstan, Belarus, China, Philippines, and Armenia.The results will help Kira Plastinina brand’s Sales and Marketing team  in formulating the marketing and sales strategies of the brand.
+Kira Plastinina is a Russian brand that is sold through a defunct chain of retail stores in Russia, Ukraine, Kazakhstan, Belarus, China, Philippines, and Armenia.The results will help their brand’s Sales and Marketing team  in formulating the marketing and sales strategies of the brand.
 
 The final project was published in RPubs:
 
