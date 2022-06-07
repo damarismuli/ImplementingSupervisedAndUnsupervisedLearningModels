@@ -39,7 +39,7 @@ Implementing the Solution
 
 i. K - Means Clustering
  
-ii.Hierarchical Clustering
+ii. Hierarchical Clustering
 
 Challenging the Solution
 
