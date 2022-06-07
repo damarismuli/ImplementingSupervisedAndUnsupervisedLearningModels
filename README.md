@@ -18,18 +18,27 @@ Link to the updated project Performing_EDA_to_help_click_on_ads in which :
 
 ## Experimental Design
 
+
 Problem Definition
+
 Data Sourcing
+
 Checking the Data
+
 Performing Data Cleaning
+
 Performing Exploratory Data Analysis 
 
 i.Univariate
+
 ii.Bivariate 
+
 iii. Multivariate
 
 Implementing the Solution
+
 Challenging the Solution
+
 Follow up Questions
 
 ## Metric for Success
